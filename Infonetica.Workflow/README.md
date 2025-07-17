@@ -172,8 +172,3 @@ curl -s http://localhost:5000/workflow-instances/<guid>
 * Pluggable persistence (database, redis, etc.) behind interface.
 * Swagger/OpenAPI generation.
 
----
-
-## License
-
-MIT (add SPDX header if publishing). 
